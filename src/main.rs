@@ -1,5 +1,5 @@
-mod tuples;
+mod structs;
 
 fn main() {
-    tuples::run();
+    structs::run();
 }
